@@ -1,4 +1,4 @@
-public class day_00_0 {
+public class day00_0 {
     public static void main(String[] args) {
         int number =  479598;
         int sum = 0;

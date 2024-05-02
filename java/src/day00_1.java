@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class day_00_1 {
+public class day00_1 {
     private static final Scanner sc = new Scanner(System.in);
     private static int iterations;
 
